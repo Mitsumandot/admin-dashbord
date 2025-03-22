@@ -1,1 +1,2 @@
 # admin-dashbord
+In this project, i will be demonstrating and applying the knownledge i acquired in the intermediate css/html course on The Odin Project by making, as the title suggest, an admin dashbord page.
